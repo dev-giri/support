@@ -1,0 +1,27 @@
+{
+    "name": "girisoft/support",
+    "version": "dev-master",
+    "description": "The Support module of girisoft",
+    "authors": [
+        {
+            "name": "Dev Giri",
+            "email": "dev.giridhari@gmail.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Support\\": ""
+        }
+    }
+}
